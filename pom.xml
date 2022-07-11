@@ -19,7 +19,7 @@
 	<properties>
 		<spring.boot.version>2.7.0</spring.boot.version>
 		<spring.cloud.version>2021.0.3</spring.cloud.version>
-		<simurai-resources-core.version>0.1-SNAPSHOT</simurai-resources-core.version>
+		<simurai-resources-core.version>0.1</simurai-resources-core.version>
 	</properties>
 
 	<scm>
